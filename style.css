@@ -116,12 +116,13 @@ display: flex;
   border-radius: 10px;
   border-radius: 10px;
   box-shadow: 0 8px 10px rgba(0,0,0,0.9);
-
+  background-color: white;
 }
 .h1 {
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 4px 6px rgba(0,0,0,0.5);
+  background-color: white;
 }
 
 footer {
@@ -177,7 +178,7 @@ footer {
   text-align: center ;
   width: 750px ;
   height: 750px ;
-  right: 20% ;
+  right: 12% ;
   background: url('anh.jpg') no-repeat center center ;
   background-size: cover ;
   z-index: -1 ;
